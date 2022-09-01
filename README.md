@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @773N
 - 👀 I’m interested in ... Tensorflow
-- 🌱 I’m currently learning ... English
+- 🌱 I’m currently learning ... English language
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
